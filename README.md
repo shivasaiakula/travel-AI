@@ -1,6 +1,8 @@
 # 🇮🇳 InTravel AI
 
-![Hero Image](https://images.unsplash.com/photo-1524492707947-28a0ca8c3bb2?auto=format&fit=crop&q=80&w=1200)
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1524492707947-28a0ca8c3bb2?w=1200&q=80" alt="Hero Image" width="100%" style="border-radius: 20px;">
+</p>
 
 **The Future of Indian Tourism.** 
 InTravel AI is a state-of-the-art, fully autonomous AI travel platform that designs deeply personalized, context-aware journeys across India. Powered by Google Gemini and Supabase, it goes far beyond standard booking sites by acting as a highly intelligent, voice-enabled travel companion.
